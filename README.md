@@ -1,7 +1,6 @@
-```
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+## Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image] (https://github.com/eduvinagre/paginapessoal/blob/main/portfolio.png?raw=true)
+![portfolio](https://user-images.githubusercontent.com/122939534/217122767-d48ba5a8-bf6b-46e8-b9ee-dce316694a42.png)
 
 ## Ferramentas utilizadas:
 
